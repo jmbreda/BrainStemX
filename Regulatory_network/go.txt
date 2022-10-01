@@ -1,0 +1,40 @@
+synapse related genes;neurons migration
+Cell cycle regulation;Neuronal differentiation
+layer formation in cerebral cortex;negative regulation of synapse maturation;positive regulation of long term synaptic depression
+regulation of nucleic acid-templated transcription
+nerve/axon development
+cell cycle regulation;DNA replication
+translational regulation
+cell cycle regulation;
+negative regulation of transcription
+C2orf40(induce senescence of oligodendrocyte and neural precursor cells);Gfap(distinguishes astrocytes from other glial cells);Aldoc(glycolytic enzyme in hippocampus and Purkinje cells of the brain)
+regulation of dendrite extension;collateral sprouting (axon growth)
+Olig1(formation and maturation of oligodendrocytesin in brain);regulation of synaptic plasticity and depression;oligodendrocyte differentiation
+Neurod6(development and differentiation of the nervous system)
+regulation of Schwann cell proliferation; peripheral nervous system axon regeneration;thyroid hormone transport;
+Neurod6;chromatin silencing;synapse maturation;cerebellar granular layer formation and cell differentiation;peripheral nervous system axon regeneration;gephyrin clustering involved in postsynaptic density assembly
+layer formation in cerebral cortex;positive regulation of long term synaptic depression;negative regulation of synapse maturation
+cerebellar granular layer formation and cell differentiation;synapse maturation;positive regulation of long term synaptic depression
+cerebellar granular layer formation and cell differentiation
+ranslation
+regulation of grooming behavior;commitment of neuronal cell to specific neuron type in forebrain;radial glia guided migration of Purkinje cell
+Neurod6;negative regulation of synapse maturation;dentate gyrus development
+positive regulation of long term synaptic depression;peripheral nervous system axon regeneration
+G1 to G0 transition involved in cell differentiation;photoreceptor cell fate commitment;globus pallidus development;negative regulation of retinoic acid receptor signaling pathway
+cerebellar granular layer formation and cell differentiation;
+negative regulation of epithelial cell proliferation involved in lung morphogenesis;negative regulation of synapse maturation;cerebellar granular layer formation andcell differentiation;
+Neurod6;mRNA splice site selection;synapse maturation;commitment of neuronal cell to specific neuron type in forebrain
+positive regulation of vesicle fusion
+negative regulation of epithelial cell proliferation involved in lung morphogenesis;regulation of neuron migration;synapse maturation;gephyrin clustering involved in postsynaptic density assembly;positive regulation of synaptic plasticity
+lipoxygenase pathway;regulation of Schwann cell proliferation;prepulse inhibition
+structural constituent of ribosome
+chromatin silencing
+cerebellar granular layer morphogenesis
+aorta smooth muscle tissue morphogenesis
+photoreceptor cell fate commitment
+tricellular tight junction assembly
+forebrain anterior/posterior pattern specification;mating and reproductive behavior
+chromatin silencing
+common myeloid progenitor cell proliferation;forebrain anterior/posterior pattern specification;globus pallidus development
+sequence-specific DNA binding
+hippocampus development;negative regulation of synapse maturation;negative regulation of synapse maturation

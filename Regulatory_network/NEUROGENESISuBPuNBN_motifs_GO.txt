@@ -1,0 +1,60 @@
+Dlx1	oxalate transport;synapse assembly;malate-aspartate shuttle
+E2f1	DNA replication initiation;embryonic skeletal joint morphogenesis;maintenance of DNA methylation;positive regulation of DNA endoreduplication;cerebral cortex GABAergic interneuron fate commitment;positive regulation of neural retina development;positive regulation of retina development in camera-type eye;positive regulation of amacrine cell differentiation
+E2f2_E2f5	DNA replication initiation;positive regulation of DNA endoreduplication;DNA replication proofreading
+E2f8	maintenance of DNA methylation;DNA replication initiation;DNA unwinding involved in DNA replication;positive regulation of DNA endoreduplication;deoxyribonucleotide biosynthetic process;fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+Hey1_Myc_Mxi1	regulation of endocannabinoid signaling pathway
+Hoxb7	mRNA splice site selection;synapse assembly
+Mef2c	retinol metabolic process
+Pax6	lamellipodium assembly;negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Sox3_Sox10	actin filament polymerization;synapse assembly
+Tbx1_Eomes	positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway;G-protein coupled acetylcholine receptor signaling pathway;gonad morphogenesis
+Vsx1_Uncx_Prrx2_Shox2_Noto	CD8-positive, alpha-beta T cell differentiation involved in immune response;peripheral nervous system neuron differentiation;peripheral nervous system neuron development;cerebral cortex GABAergic interneuron fate commitment;positive regulation of neural retina development;positive regulation of retina development in camera-type eye;positive regulation of amacrine cell differentiation
+Vsx2_Dlx3	forebrain anterior/posterior pattern specification;common myeloid progenitor cell proliferation
+Ybx1_Nfya_Nfyb_Nfyc_Cebpz	positive regulation of DNA endoreduplication;regulation of asymmetric cell division;regulation of attachment of spindle microtubules to kinetochore;DNA replication-dependent nucleosome assembly;DNA replication-dependent nucleosome organization
+Zic3	apical constriction;negative regulation of transcription involved in G1/S transition of mitotic cell cycle
+Tgif1_Meis3	glossopharyngeal nerve development;vagus nerve development
+Hmga2	Schwann cell proliferation
+Mybl2	DNA replication;Schwann cell migration
+Nfix	commitment of neuronal cell to specific neuron type in forebrain
+Ebf3	positive regulation of protein localization to synapse;commitment of neuronal cell to specific neuron type in forebrain
+Sox2	positive regulation of mesenchymal stem cell differentiation
+Egr1	inhibitory G-protein coupled receptor phosphorylation;positive regulation of phospholipase A2 activity;activation of meiosis involved in egg activation
+Mecp2	maintenance of DNA methylation;regulation of transcription from RNA polymerase II promoter, mitotic;positive regulation of transcription from RNA polymerase II promoter during mitosis;hippo signaling
+Foxi1_Foxo1	forebrain anterior/posterior pattern specification;lymphatic endothelial cell fate commitment;oculomotor nerve development;regulation of forebrain neuron differentiation
+Rfx3_Rfx1_Rfx4	receptor diffusion trapping;postsynaptic neurotransmitter receptor diffusion trapping;neurotransmitter receptor diffusion trapping
+Tcf4_Mesp1	calcium ion-regulated exocytosis of neurotransmitter
+Chd1_Pml	inhibitory G-protein coupled receptor phosphorylation
+Pou2f2_Pou3f1	forebrain-midbrain boundary formation
+Elf1_Elf2_Etv2_Elf4	RNA splicing
+Hes1	negative regulation of glycogen biosynthetic process;negative regulation of glycogen metabolic process
+Rfx2_Rfx7	magnesium ion transport
+Sox6_Sox9	synapse assembly
+Gli3_Zic1	regulation of thrombin receptor signaling pathway;cellular response to histamine
+Etv1_Etv5_Gabpa	RNA splicing;regulation of attachment of spindle microtubules to kinetochore;regulation of mitotic spindle organization;structural constituent of ribosome;(Replication)
+E2f4	Cell division cycle;attachment of spindle microtubules to kinetochore
+Tead3_Tead4	positive regulation of G0 to G1 transition;negative regulation of hippo signaling
+E2f7	chromatin silencing
+Snai1_Zeb1_Snai2	lamellipodium assembly;positive regulation of dendrite extension;cellular response to brain-derived neurotrophic factor stimulus;synaptic vesicle budding from presynaptic endocytic zone membrane;negative regulation of motor neuron apoptotic process
+Klf6_Patz1	1.5;postsynaptic membrane
+Atf1_Creb5	0.98
+Tcf7_Tcf7l2	regulation of neuron migration;TEAD-2-YAP complex;Notch signaling pathway
+Foxa2_Foxa1	G-protein coupled signaling pathway
+Bbx	synapse assembly;0.316
+Foxp2_Foxp3	0.701
+Foxd1	retinol metabolic process;stem cell asymmetric division
+Stat2	negative regulation of viral genome replication;microglial cell migration
+Ppara	cellular response to histamine;radial glia guided migration of cerebellar granule cell
+Foxp1_Foxj2	synaptic vesicle uncoating;stem cell asymmetric division
+Nfe2l1_Mafg	forebrain anterior/posterior pattern specification
+Yy1_Yy2	DNA replication-dependent nucleosome assembly and organization;cytoplasmic and mitochondrial translation;large and small ribosomal subunit
+Lef1	negative regulation of retinoic acid receptor signaling pathway
+Hes5_Hes7	negative regulation of glycogen biosynthetic and metabolic process;positive regulation of Wnt signaling pathway
+Nfia	thyroid hormone transport
+Irf2_Irf1_Irf8_Irf9_Irf7	regulation of response to interferon-gamma;interferon-alpha biosynthetic process
+Zic4	spermatogenesis, exchange of chromosomal proteins;regulation of oligodendrocyte differentiation
+Pitx2_Otx2	NLS-bearing protein import into nucleus;DNA replication;structural constituent of ribosome
+Rbpj	forebrain-midbrain boundary formation;somatic motor neuron fate commitment
+Hmga1	synapse assembly;cell dedifferentiation
+Scrt1	tricellular tight junction assembly;astral microtubule organization;neuronal stem cell population maintenance
+Pbx1_Pbx3	neuroblast migration
+Zfp219_Zfp740	positive regulation of sprouting of injured axon and axon extension involved in regeneration;	commitment of neuronal cell to specific neuron type in forebrain

@@ -1,0 +1,55 @@
+Rest	synapse related genes;neurons migration
+Ybx1_Nfya_Nfyb_Nfyc_Cebpz	Cell cycle reg.;Neuronal diff.
+Sox2	layer form. in cerebral cortex;neg. reg. of synapse mat.;pos. reg. of long term synaptic depression
+Hcfc1_Six5_Smarcc2_Zfp143	reg. of nucleic acid-templated transcription
+Tgif1_Meis3	nerve/axon devel.
+E2f1	cell cycle reg.;DNA replication
+Max_Mycn	translational reg.
+Tead3_Tead4	cell cycle reg.
+Zfp110	neg. reg. of transcription
+Nfic_Nfib	neg. reg. of membrane protein ectodomain proteolysis;microglial cell prolif.;reg. of neuronal signal transduction	
+Klf6_Patz1	reg. of dendrite extension;collateral sprouting (axon growth)
+Myf6	reg. of synaptic plasticity and depression;oligodendrocyte diff.
+Nfil3_Tef	microglial cell prolif.;reg. of neuronal signal transduction
+Nfia	reg. of Schwann cell prolif.; peripheral nervous system axon regeneration;thyroid hormone transport;
+Pou5f1	chromatin silencing;synapse mat.;cerebellar granular layer form. and cell diff.;peripheral nervous system axon regeneration;gephyrin clustering in postsynaptic density assembly
+Sox3_Sox10	layer form. in cerebral cortex;pos. reg. of long term synaptic depression;neg. reg. of synapse mat.
+Chd1_Pml	cerebellar granular layer form. and cell diff.;synapse mat.;pos. reg. of long term synaptic depression
+Foxp1_Foxj2	cerebellar granular layer form. and cell diff.
+Klf4_Sp3	ranslation
+Gtf2i_Gtf2f1	reg. of grooming behavior;commitment of neuronal cell to specific neuron type in forebrain;radial glia guided migration of Purkinje cell
+Neurod1	neg. reg. of synapse mat.;dentate gyrus devel.
+Hic2	pos. reg. of long term synaptic depression;peripheral nervous system axon regeneration
+Hsf2	G1 to G0 transition in cell diff.;photoreceptor cell fate commitment;globus pallidus devel.;neg. reg. of retinoic acid receptor signaling pathway
+Sp1	cerebellar granular layer form. and cell diff.;
+Sox5_Sry	neg. reg. of epithelial cell prolif. in lung morphogenesis;neg. reg. of synapse mat.;cerebellar granular layer form. andcell diff.;
+Hoxb7	mRNA splice site selection;synapse mat.;commitment of neuronal cell to specific neuron type in forebrain
+Tcf4_Mesp1	pos. reg. of vesicle fusion
+Ezh2_Atf2_Ikzf1	neg. reg. of epithelial cell prolif. in lung morphogenesis;reg. of neuron migration;synapse mat.;gephyrin clustering in postsynaptic density assembly;pos. reg. of synaptic plasticity
+Nfix	lipoxygenase pathway;reg. of Schwann cell prolif.;prepulse inhibition
+Pitx2_Otx2	structural constituent of ribosome
+Smad3	chromatin silencing
+Hic1	cerebellar granular layer morphogenesis
+Zbtb18	aorta smooth muscle tissue morphogenesis
+Cpeb1	photoreceptor cell fate commitment
+Scrt2	tricellular tight junction assembly
+Onecut1_Cux2	forebrain anterior/posterior pattern specification;mating and reproductive behavior
+Pou2f2_Pou3f1	chromatin silencing
+Vsx2_Dlx3	common myeloid progenitor cell prolif.;forebrain anterior/posterior pattern specification;globus pallidus devel.
+Vsx1_Uncx_Prrx2_Shox2_Noto	sequence-specific DNA binding
+Neurod2_Bhlha15_Bhlhe22_Olig1	hippocampus devel.;neg. reg. of synapse mat.;cell cycle arrest
+Foxo6	Ribosomal proteins
+Fosl2_Bach2	presynaptic membrane;postsynaptic membrane
+Dlx1	malate-aspartate shuttle
+Mef2c	pos. reg. of cell communication by electrical coupling
+Tbr1	glycine secretion, neurotransmission
+Tfap2d	transcriptional activator activity;RNA polymerase II core promoter proximal region sequence-specific binding
+Runx2_Bcl11a	globus pallidus devel.
+Egr1	postsynaptic membrane
+Ppara	alpha-tubulin acetylation;radial glia guided migration of cerebellar granule cell
+Nhlh1	peripheral nervous system axon regeneration;oligodendrocyte diff.;synapse mat.;pos. reg. of dendritic spine devel.
+Pou4f1_Pou6f1	postsynaptic membrane
+Foxi1_Foxo1	hyaluronan biosynthetic process;forebrain anterior/posterior pattern specification
+Scrt1	tricellular tight junction assembly
+Zfx_Zfp711	structural constituent of ribosome
+Stat2	integral component of membrane
